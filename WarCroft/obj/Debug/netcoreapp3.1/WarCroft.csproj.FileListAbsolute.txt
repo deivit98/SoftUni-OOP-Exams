@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\warCroft\bin\Debug\netcoreapp3.1\WarCroft.exe
+C:\Users\User\Desktop\warCroft\bin\Debug\netcoreapp3.1\WarCroft.deps.json
+C:\Users\User\Desktop\warCroft\bin\Debug\netcoreapp3.1\WarCroft.runtimeconfig.json
+C:\Users\User\Desktop\warCroft\bin\Debug\netcoreapp3.1\WarCroft.runtimeconfig.dev.json
+C:\Users\User\Desktop\warCroft\bin\Debug\netcoreapp3.1\WarCroft.dll
+C:\Users\User\Desktop\warCroft\bin\Debug\netcoreapp3.1\WarCroft.pdb
+C:\Users\User\Desktop\warCroft\obj\Debug\netcoreapp3.1\WarCroft.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\warCroft\obj\Debug\netcoreapp3.1\WarCroft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\warCroft\obj\Debug\netcoreapp3.1\WarCroft.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\warCroft\obj\Debug\netcoreapp3.1\WarCroft.AssemblyInfo.cs
+C:\Users\User\Desktop\warCroft\obj\Debug\netcoreapp3.1\WarCroft.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\warCroft\obj\Debug\netcoreapp3.1\WarCroft.dll
+C:\Users\User\Desktop\warCroft\obj\Debug\netcoreapp3.1\WarCroft.pdb
+C:\Users\User\Desktop\warCroft\obj\Debug\netcoreapp3.1\WarCroft.genruntimeconfig.cache
